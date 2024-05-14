@@ -2,4 +2,4 @@ This repository contains files with Python programs for digit recognition using 
 
 Contents:
 * ConvolutionalNN.py: convolutional neural network,
-* Perceptron: fully connected neural network.
+* Perceptron.py: fully connected neural network.
